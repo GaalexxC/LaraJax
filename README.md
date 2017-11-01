@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-GNUv3-blue.svg)  ![Followers](https://img.shields.io/badge/Followers-487,223-blue.svg)  ![Development](https://img.shields.io/badge/Development-Rapid-blue.svg)
+![License](https://img.shields.io/badge/License-GNUv3-blue.svg)  ![Following](https://img.shields.io/badge/Following-487,223-blue.svg)  ![Development](https://img.shields.io/badge/Development-Rapid-blue.svg)
 
 
 # LaraJax
